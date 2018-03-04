@@ -19,7 +19,7 @@ Certain controls and assessment procedures are covered at the DoD level allowing
 
 The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
  
-#6. PROCEDURES
+# 6. PROCEDURES
 
 * a. (MP-2) Media Protection 
 ** (1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)
