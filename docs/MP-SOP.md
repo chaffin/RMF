@@ -20,19 +20,19 @@ Certain controls and assessment procedures are covered at the DoD level allowing
 The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
  
 # 6. PROCEDURES
-<p style="margin:.25in">a. (MP-2) Media Protection</p>
+&nbsp;&nbsp;a. (MP-2) Media Protection
 
-<pcol-2>(1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)</pcol-2>
+&nbsp;&nbsp;&nbsp;&nbsp;(1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)
 
-<pcol-3>a)  Users. General users have access to compact disks, and digital video disks, as well as non-digital media paper and film. Certain users may also have access to restricted media as outlined in section k.(1).b of this procedure.</div>
+&nbsp;&nbsp;&nbsp;&nbsp;a)  Users. General users have access to compact disks, and digital video disks, as well as non-digital media paper and film. Certain users may also have access to restricted media as outlined in section k.(1).b of this procedure.
 
-<pcol-3>b) Privileged Users. Personnel who have privileged access and accounts have access to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. Certain privileged users may also have access to restricted media as outlined in section k.(1).b of this procedure.</div>
+&nbsp;&nbsp;&nbsp;&nbsp;b) Privileged Users. Personnel who have privileged access and accounts have access to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. Certain privileged users may also have access to restricted media as outlined in section k.(1).b of this procedure.
 
-<pcol-3>c) Couriers. Authorized persons approved with currier responsibilities have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film.</div>
+&nbsp;&nbsp;&nbsp;&nbsp;c) Couriers. Authorized persons approved with currier responsibilities have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film.
 
-<pcol-3>d) Document Control. Authorized personnel working in document control have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. (CCI-001005)
+&nbsp;&nbsp;&nbsp;&nbsp;d) Document Control. Authorized personnel working in document control have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. (CCI-001005)
 
-<pcol-1>b. (MP-3) Media Marking</div>
+&nbsp;&nbsp;b. (MP-3) Media Marking
 
 ** (1) All information system media, without exemption, are marked in compliance with DoD 5200.01 Vol. 1-4 (Reference (c)). (CCI-001010, CCI-001011)
 
