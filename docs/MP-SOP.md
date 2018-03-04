@@ -1,11 +1,12 @@
 # 1. References
-* a. AR 25-2, Information Assurance, 23 March 2009.  
-* b. DoDI 8500.01, Cybersecurity, 14 March 2014.
-* c. DoDM 5200.01 Vol. 1-4, 24 February 2012.
+* AR 25-2, Information Assurance, 23 March 2009.  
+* DoDI 8500.01, Cybersecurity, 14 March 2014.
+* DoDM 5200.01 Vol. 1-4, 24 February 2012.
 
 # 2. PURPOSE
-* This Media Protection (MP) Standard Operating Procedure (SOP) integrates cybersecurity into [Organization] information system life cycle in accordance with DoDI 8500.01 (Reference (b)). 
-* This SOP acknowledges the inherited controls provided by the Department of Defense (DoD) and the Army Policy Record, and provides details for common and shared controls used within the [Organization] enclave.  
+This Media Protection (MP) Standard Operating Procedure (SOP) integrates cybersecurity into [Organization] information system life cycle in accordance with DoDI 8500.01 (Reference (b)). 
+
+This SOP acknowledges the inherited controls provided by the Department of Defense (DoD) and the Army Policy Record, and provides details for common and shared controls used within the [Organization] enclave.  
 
 # 3. APPLICABILITY 
 This SOP is applicable to all Organizational elements and activities receiving support and services from the [Organization].
@@ -14,32 +15,25 @@ This SOP is applicable to all Organizational elements and activities receiving s
 This SOP extends to all government and contractor personnel as defined in section 6.a.(1) of this procedure. 
 
 # 5. CONTROLS 
-* Certain controls and assessment procedures are covered at the DoD level allowing [Organization] the ability to inherit those controls through a common control provider. The Army has authorized and provided via the Army Policy Record the following common controls for Media Protection:  (CCI-002566, CCI-000995, CCI-000996, CCI-000999, CCI-001000, CCI-000998, CCI-000997, CCI-001002, CCI-001001, CCI-001004, CCI-001012, CCI-001013, CCI-001015, CCI-001016, CCI-001021, CCI-001022, CCI-002578, CCI-002579, CCI-001031, CCI-001033, CCI-002591). 
-* The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
+Certain controls and assessment procedures are covered at the DoD level allowing [Organization] the ability to inherit those controls through a common control provider. The Army has authorized and provided via the Army Policy Record the following common controls for Media Protection:  (CCI-002566, CCI-000995, CCI-000996, CCI-000999, CCI-001000, CCI-000998, CCI-000997, CCI-001002, CCI-001001, CCI-001004, CCI-001012, CCI-001013, CCI-001015, CCI-001016, CCI-001021, CCI-001022, CCI-002578, CCI-002579, CCI-001031, CCI-001033, CCI-002591). 
+
+The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
  
 #6. PROCEDURES
 
-a. (MP-2) Media Protection 
+* a. (MP-2) Media Protection 
+** (1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)
+*** a)  Users. General users have access to compact disks, and digital video disks, as well as non-digital media paper and film. Certain users may also have access to restricted media as outlined in section k.(1).b of this procedure. 
+*** b) Privileged Users. Personnel who have privileged access and accounts have access to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. Certain privileged users may also have access to restricted media as outlined in section k.(1).b of this procedure.
+*** c) Couriers. Authorized persons approved with currier responsibilities have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film.
+*** d) Document Control. Authorized personnel working in document control have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. (CCI-001005)
 
-(1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)
+* b. (MP-3) Media Marking
+** (1) All information system media, without exemption, are marked in compliance with DoD 5200.01 Vol. 1-4 (Reference (c)). (CCI-001010, CCI-001011)
 
-a)  Users. General users have access to compact disks, and digital video disks, as well as non-digital media paper and film. Certain users may also have access to restricted media as outlined in section k.(1).b of this procedure. 
-
-b) Privileged Users. Personnel who have privileged access and accounts have access to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. Certain privileged users may also have access to restricted media as outlined in section k.(1).b of this procedure.
-
-c) Couriers. Authorized persons approved with currier responsibilities have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film.
-
-d) Document Control. Authorized personnel working in document control have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. (CCI-001005)
-
-b. (MP-3) Media Marking
- 
-(1) All information system media, without exemption, are marked in compliance with DoD 5200.01 Vol. 1-4 (Reference (c)). (CCI-001010, CCI-001011)
-
-c. (MP-4) Media Storage
-
-(1) All digital and non-digital media containing sensitive, controlled, and/or classified information are physically controlled and/or securely stored and protected until destroyed or sanitized using approved equipment, techniques, and procedures as outlined in Reference (f) para. 8.0, and Reference (e) for NATO classified material. (CCI-001014, CCI-001018)
-
-(2) All digital and non-digital media containing Personally Identifiable Information (PII) are required to be maintained and handled in accordance with Reference (d). 
+* c. (MP-4) Media Storage
+** (1) All digital and non-digital media containing sensitive, controlled, and/or classified information are physically controlled and/or securely stored and protected until destroyed or sanitized using approved equipment, techniques, and procedures as outlined in Reference (f) para. 8.0, and Reference (e) for NATO classified material. (CCI-001014, CCI-001018)
+** (2) All digital and non-digital media containing Personally Identifiable Information (PII) are required to be maintained and handled in accordance with Reference (d). 
 
 d. (MP-5) Media Transport 
 
