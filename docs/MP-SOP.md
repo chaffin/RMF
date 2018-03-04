@@ -20,19 +20,26 @@ Certain controls and assessment procedures are covered at the DoD level allowing
 The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
  
 # 6. PROCEDURES
+* a. (MP-2) Media Protection
 
-* a. (MP-2) Media Protection 
 ** (1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)
+
 *** a)  Users. General users have access to compact disks, and digital video disks, as well as non-digital media paper and film. Certain users may also have access to restricted media as outlined in section k.(1).b of this procedure. 
+
 *** b) Privileged Users. Personnel who have privileged access and accounts have access to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. Certain privileged users may also have access to restricted media as outlined in section k.(1).b of this procedure.
+
 *** c) Couriers. Authorized persons approved with currier responsibilities have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film.
+
 *** d) Document Control. Authorized personnel working in document control have physical access, while conducting their duties, to diskettes, magnetic tapes, external/removable hard disk, drives, flash drives, compact disks, and digital video disks, as well as non-digital media paper and film. (CCI-001005)
 
 * b. (MP-3) Media Marking
+
 ** (1) All information system media, without exemption, are marked in compliance with DoD 5200.01 Vol. 1-4 (Reference (c)). (CCI-001010, CCI-001011)
 
 * c. (MP-4) Media Storage
+
 ** (1) All digital and non-digital media containing sensitive, controlled, and/or classified information are physically controlled and/or securely stored and protected until destroyed or sanitized using approved equipment, techniques, and procedures as outlined in Reference (f) para. 8.0, and Reference (e) for NATO classified material. (CCI-001014, CCI-001018)
+
 ** (2) All digital and non-digital media containing Personally Identifiable Information (PII) are required to be maintained and handled in accordance with Reference (d). 
 
 d. (MP-5) Media Transport 
