@@ -4,9 +4,8 @@
 * c. DoDM 5200.01 Vol. 1-4, 24 February 2012.
 
 # 2. PURPOSE
-* a. This Media Protection (MP) Standard Operating Procedure (SOP) integrates cybersecurity into [Organization] information system life cycle in accordance with DoDI 8500.01 (Reference (b)). 
-
-* b. This SOP acknowledges the inherited controls provided by the Department of Defense (DoD) and the Army Policy Record, and provides details for common and shared controls used within the [Organization] enclave.  
+* This Media Protection (MP) Standard Operating Procedure (SOP) integrates cybersecurity into [Organization] information system life cycle in accordance with DoDI 8500.01 (Reference (b)). 
+* This SOP acknowledges the inherited controls provided by the Department of Defense (DoD) and the Army Policy Record, and provides details for common and shared controls used within the [Organization] enclave.  
 
 # 3. APPLICABILITY 
 This SOP is applicable to all Organizational elements and activities receiving support and services from the [Organization].
@@ -15,10 +14,8 @@ This SOP is applicable to all Organizational elements and activities receiving s
 This SOP extends to all government and contractor personnel as defined in section 6.a.(1) of this procedure. 
 
 # 5. CONTROLS 
-
-a. Certain controls and assessment procedures are covered at the DoD level allowing [Organization] the ability to inherit those controls through a common control provider. The Army has authorized and provided via the Army Policy Record the following common controls for Media Protection:  (CCI-002566, CCI-000995, CCI-000996, CCI-000999, CCI-001000, CCI-000998, CCI-000997, CCI-001002, CCI-001001, CCI-001004, CCI-001012, CCI-001013, CCI-001015, CCI-001016, CCI-001021, CCI-001022, CCI-002578, CCI-002579, CCI-001031, CCI-001033, CCI-002591). 
-
-b. The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
+* Certain controls and assessment procedures are covered at the DoD level allowing [Organization] the ability to inherit those controls through a common control provider. The Army has authorized and provided via the Army Policy Record the following common controls for Media Protection:  (CCI-002566, CCI-000995, CCI-000996, CCI-000999, CCI-001000, CCI-000998, CCI-000997, CCI-001002, CCI-001001, CCI-001004, CCI-001012, CCI-001013, CCI-001015, CCI-001016, CCI-001021, CCI-001022, CCI-002578, CCI-002579, CCI-001031, CCI-001033, CCI-002591). 
+* The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
  
 #6. PROCEDURES
 
