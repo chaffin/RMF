@@ -20,9 +20,9 @@ Certain controls and assessment procedures are covered at the DoD level allowing
 The procedures outlined in this document satisfies the RMF media protection requirements for [Organization] information system components. Control Number (CN) and Control Correlation Identifiers (CCI) are notated in the paragraph that satisfies the requirements for those CNs and CCIs.
  
 # 6. PROCEDURES
-<pcol-1>a. (MP-2) Media Protection</div>
+<p style="margin:.25in">a. (MP-2) Media Protection</p>
 
-<pcol-2>(1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)</div>
+<pcol-2>(1) [Organization] CIO restricts access to all types of digital and/or non-digital media containing information not cleared for public release to personnel whom have the requisite need to know, clearance and job role as outline below: (CCI-001003)</pcol-2>
 
 <pcol-3>a)  Users. General users have access to compact disks, and digital video disks, as well as non-digital media paper and film. Certain users may also have access to restricted media as outlined in section k.(1).b of this procedure.</div>
 
