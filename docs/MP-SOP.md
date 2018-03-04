@@ -1,13 +1,12 @@
 # 1. References
-
-a. AR 25-2, Information Assurance, 23 March 2009.  
-b. DoDI 8500.01, Cybersecurity, 14 March 2014.
-c. DoDM 5200.01 Vol. 1-4, 24 February 2012.
+- a. AR 25-2, Information Assurance, 23 March 2009.  
+- b. DoDI 8500.01, Cybersecurity, 14 March 2014.
+- c. DoDM 5200.01 Vol. 1-4, 24 February 2012.
 
 # 2. PURPOSE
-* a. This Media Protection (MP) Standard Operating Procedure (SOP) integrates cybersecurity into [Organization] information system life cycle in accordance with DoDI 8500.01 (Reference (b)). 
+a. This Media Protection (MP) Standard Operating Procedure (SOP) integrates cybersecurity into [Organization] information system life cycle in accordance with DoDI 8500.01 (Reference (b)). 
 
-* b. This SOP acknowledges the inherited controls provided by the Department of Defense (DoD) and the Army Policy Record, and provides details for common and shared controls used within the [Organization] enclave.  
+b. This SOP acknowledges the inherited controls provided by the Department of Defense (DoD) and the Army Policy Record, and provides details for common and shared controls used within the [Organization] enclave.  
 
 # 3. APPLICABILITY 
 This SOP is applicable to all Organizational elements and activities receiving support and services from the [Organization].
