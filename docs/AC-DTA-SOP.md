@@ -46,16 +46,16 @@
 >>> 3.  Maintains the TPI Log to reflect accountability of removable media throughout the [Information System] life cycle; from receipt of the media to destruction or the media. 
 
 >> h.  Requestor
->>> 1.  Initiates DTA process by completing the DTA request form (Appendix A), signing the form as the requestor and routing it for approval.
+>>> Initiates DTA process by completing the DTA request form (Appendix A), signing the form as the requestor and routing it for approval.
 
 >> i.  Witness
->>> 1.  Signs the DTA request form (Appendix A) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
+>>> Signs the DTA request form (Appendix A) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
 
 # 5.  PROCEDURES
 > The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
 
 >> a.  File Types
->>> 1.  There are no file type restrictions under this SOP.
+>>> There are no file type restrictions under this SOP.
 
 >> b.  Media Use (RMF Control MP-2)
 >>> 1.  The use of removable media is restricted on the [Information System].  CDs and DVDs are the only media type authorized for use under this SOP for AFT.
@@ -128,11 +128,11 @@
 >>> 2.  Using the mouse, hover over the top level folder and [RIGHT] click, then select [7-ZIP] from the menu option.
 >>> 3.  Select [ADD TO ARCHIVE] and follow the below method to name the archive.
 >>>> a.  AFT File names shall be formatted per (5.g.3.a). 
->>>>> i.  Note: File extensions such as .zip, .7z are assumed in AFT archived filenames and need not be recorded in the media log.
+>>>>> Note: File extensions such as .zip, .7z are assumed in AFT archived filenames and need not be recorded in the media log.
 >>>> b.  Sequential AFT archives on the same date will increment in the suffix. 
 >>> 4.  The DTA shall type the approved known access code in the password area under [ENTER PASSWORD] and [REENTER PASSWORD] blocks.
 >>>> a.  The approved known access code used for conducting AFT is not considered an authenticator, rather an access code and shall be protected similar a GSA approved container or combination lock.
->>>>> i.  Note: The access code for AFTs shall be a coordinated effort between the PSO and CPSO and may have an indefinite expiration date.
+>>>>> Note: The access code for AFTs shall be a coordinated effort between the PSO and CPSO and may have an indefinite expiration date.
 >>>> b.  The access code shall be known by all who have need-to-know and only changed when directed by the PSO. 
 >>> 5.  After entering the access code, the DTA will check the [ENCRYPT FILE NAMES] box and select [OK]. Doing this encrypts the folder.
 >>> 6.  The DTA shall test the archive by following the below steps:
@@ -141,13 +141,15 @@
 >>>> c.  Double click on the encrypted file to open;
 >>>> d.  7-Zip should challenge by requesting the access code; 
 >>>> e.  Enter the code/password, and verify that it works.
->>>>> i.  IF 7-Zip does not challenge for an access code, or the access code does not work, immediately stop the process. Do not transfer the archive to media and return to (5.j.1). 
+>>>>> IF 7-Zip does not challenge for an access code, or the access code does not work, immediately stop the process. Do not transfer the archive to media and return to (5.j.1). 
+
 >>> 7.  The DTA shall now burn the protected file archive to the removable media issued by the TPI Media Custodian by following the below steps: 
 >>>> a.  Navigate to the encrypted file and [RIGHT] click to open the menu options.  
 >>>> b.  Select [SEND TO] and chose the DVD RW Drive.
 >>>> c.  Select [WITH A CD/DVD PLAYER] and click [NEXT].
 >>>> d.  Click [BURN TO DISC] on the top bar, select [NEXT] and then select [FINISH] when prompted.
+
 >>> 8.  Once the burn is complete, reinsert the disc and attempt to open the file using the 7-Zip File Manager program.
 >>>> a.  Click on the small, drop down arrow on the top, right hand side of the window, select “D:” and open the file by entering the password.  
->>>>> i.  The media fails to open, the DTA shall return the media to the TPI media custodian per (5.g.1.c) and attempt the process over. 
+>>>>> i.  The media fails to open, the DTA shall return the media to the TPI media custodian per (5.g.1.c) and attempt the process over. <br>
 >>>>> ii.  The media transferred successfully, the DTA shall immediately return the media to the TPI media custodian per (5.g.1.c) and ensure the DTA role is deactivated per (5.d.3.b).
