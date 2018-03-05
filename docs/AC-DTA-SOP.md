@@ -1,3 +1,10 @@
+title:       Data Transfer Agent SOP
+author:      Larry Chaffin
+next_url:    MP-SOP.md
+next_title:  Media Protection SOP
+prev_title:  Index
+prev_url:    index.md
+
 # 1.  PURPOSE
 > The purpose of this Standard Operating Procedure (SOP) is to provide processes and procedures under the security control (AC-4) Information Flow Enforcement when conducting low risk Assure File Transfer (AFT) in accordance with Reference (a) for the ([Information System]). 
 
