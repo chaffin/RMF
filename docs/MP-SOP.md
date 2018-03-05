@@ -49,7 +49,7 @@ The procedures outlined in this document satisfies the RMF media protection requ
 
 >> (2) Transporting media containing classified information are restricted to personnel who are authorized couriers as outlined in Reference (f) para. 6.1.1.2. (CCI-001024)
 
-(3) Accountability for classified information system media during transport outside of controlled areas is maintained and documented in accordance with Reference (f) para. 6.1.1.3. (CCI-001023, CCI-001025)
+>> (3) Accountability for classified information system media during transport outside of controlled areas is maintained and documented in accordance with Reference (f) para. 6.1.1.3. (CCI-001023, CCI-001025)
 
 > e. (MP-5(3)) Media Transport - Custodians
 
@@ -165,3 +165,5 @@ Customer Support
 [Organization]
 Infrastructure Team
 [Organization]
+
+(#CCI-00256)
