@@ -7,54 +7,51 @@
   c.  JSIG-Rev.4 Based Army SAP/SA System Security Plan (SSP)<br>
   d.  US Army CIO-G6 Special Programs Office, Assured File Transfer Training for Low Risk Data Transfers, November 2013. 
 
-# 3.  SCOPE
+# 3.  SCOPE  
 > This SOP enforces approved authorizations in controlling the flow of information within the [Information System] system. The [Information System] utilizes mandatory and discretionary access controls for all file types based on the concept of least privilege and by the separation of duties, which are enforced by local and domain policies. When data are extracted from the information system, information flow enforcement is maintained utilizing the AFT process and role-based Data Transfer Agent (DTA) scheme as described within this SOP.
 
-# 4.  RESPONSIBILITIES
+# 4.  RESPONSIBILITIES  
 > Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.  
 >> a.  Program Security Officer (PSO)  
 Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
 
 >> b.  Contractor Program Security Officer (CPSO)  
-1.  Contractor providing security control measures for the accountability and marking digital media under this SOP.  
+>>> 1.  Contractor providing security control measures for the accountability and marking digital media under this SOP.  
 2.  Responsible for appointing a TPI Media Custodian in writing.  
 3.  Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.  
-4.  Authorizes each AFT by signing DTA request form [Appendix](#Appendix_A) as the approver.
+4.  Authorizes each AFT by signing DTA request form [Appendix](#Appendix A) as the approver.
 
 >> c.  Information System Security Manager (ISSM)  
-1.  Government official responsible for appointing the ISSO and updating Reference (c).  
+>>> 1.  Government official responsible for appointing the ISSO and updating Reference (c).  
 2.  Proponent of this SOP and conducts periodic compliance inspections.
 
 >> d.  Information System Security Officer (ISSO)  
-1.  Contractor providing direct support to the program.  
+>>> 1.  Contractor providing direct support to the program.  
 2.  Appointed by the ISSM to conduct privilege audit administration functions.  
 3.  Conducts weekly audits to include all AFT actions, comparing technical audit trails with the media custodian’s media log.  
 4.  Conducts weekly audits of the DTA roles, ensuring they are only active when required.
 
 >> e.  System Administrator (SA)
+>>> 1.  Contractor providing direct support to the program.  
+2.  Maintains the administration functions and responsible for activating/deactivating the DTA role within the [Information System].
 
->>> 1.  Contractor providing direct support to the program.
->>> 2.  Maintains the administration functions and responsible for activating/deactivating the DTA role within the [Information System].
+>> f.  Data Transfer Agent (DTA)  
+>>> 1.  Contractor providing direct support to the program.  
+2.  An [Information System] user authorized and trained in a privileged role to conduct assured file transfers.  
+3.  Conducts low risk Assured File Transfers and ensures data is appropriately handled per section (5.j) and signs the DTA request form [Appendix](#Appendix A) as the DTA.
 
->> f.  Data Transfer Agent (DTA)
-
->>> 1.  Contractor providing direct support to the program.
->>> 2.  An [Information System] user authorized and trained in a privileged role to conduct assured file transfers.
->>> 3.  Conducts low risk Assured File Transfers and ensures data is appropriately handled per section (5.j) and signs the DTA request form [Appendix](#Appendix_A) as the DTA.
-
->> g.  Two Person Integrity (TPI) Media Custodian
-
->>> 1.  Contractor providing direct support to the program.
->>> 2.  Appointed in writing by the CPSO.
->>> 3.  Maintains the TPI Log to reflect accountability of removable media throughout the [Information System] life cycle; from receipt of the media to destruction or the media. 
+>> g.  Two Person Integrity (TPI) Media Custodian  
+>>> 1.  Contractor providing direct support to the program.  
+2.  Appointed in writing by the CPSO.  
+3.  Maintains the TPI Log to reflect accountability of removable media throughout the [Information System] life cycle; from receipt of the media to destruction or the media. 
 
 >> h.  Requestor
 
->>> Initiates DTA process by completing the DTA request form [Appendix](#Appendix_A), signing the form as the requestor and routing it for approval.
+>>> Initiates DTA process by completing the DTA request form [Appendix](#Appendix A), signing the form as the requestor and routing it for approval.
 
 >> i.  Witness
 
->>> Signs the DTA request form [Appendix](#Appendix_A) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
+>>> Signs the DTA request form [Appendix](#Appendix A) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
 
 # 5.  PROCEDURES
 > The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
