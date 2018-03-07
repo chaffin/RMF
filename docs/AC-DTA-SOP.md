@@ -3,7 +3,7 @@ title: Data Transfer Agent SOP
 ---
 
 # 1.  PURPOSE
-The purpose of this Standard Operating Procedure (SOP) is to provide processes and procedures under the security control (AC-4) Information Flow Enforcement when conducting low risk Assure File Transfer (AFT) in accordance with Reference (a) for the ([Information System]). 
+   The purpose of this Standard Operating Procedure (SOP) is to provide processes and procedures under the security control (AC-4) Information Flow Enforcement when conducting low risk Assure File Transfer (AFT) in accordance with Reference (a) for the ([Information System]). 
 
 # 2.  REFERENCES
   a.  ARMY Assured File Transfer Guide, July 2015<br>
@@ -12,13 +12,13 @@ The purpose of this Standard Operating Procedure (SOP) is to provide processes a
   d.  US Army CIO-G6 Special Programs Office, Assured File Transfer Training for Low Risk Data Transfers, November 2013. 
 
 # 3.  SCOPE  
-This SOP enforces approved authorizations in controlling the flow of information within the [Information System] system. The [Information System] utilizes mandatory and discretionary access controls for all file types based on the concept of least privilege and by the separation of duties, which are enforced by local and domain policies. When data are extracted from the information system, information flow enforcement is maintained utilizing the AFT process and role-based Data Transfer Agent (DTA) scheme as described within this SOP.
+   This SOP enforces approved authorizations in controlling the flow of information within the [Information System] system. The [Information System] utilizes mandatory and discretionary access controls for all file types based on the concept of least privilege and by the separation of duties, which are enforced by local and domain policies. When data are extracted from the information system, information flow enforcement is maintained utilizing the AFT process and role-based Data Transfer Agent (DTA) scheme as described within this SOP.
 
 # 4.  RESPONSIBILITIES
-Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.
+   Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.
 
 a. Program Security Officer (PSO)
-
+  
    Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
 
 b. Contractor Program Security Officer (CPSO)
@@ -51,19 +51,21 @@ g. Two Person Integrity (TPI) Media Custodian
    2. Appointed in writing by the CPSO.  
    3. Maintains the TPI Log to reflect accountability of removable media throughout the [Information System] life cycle; from receipt of the media to destruction or the media. 
 
-h.  Requestor
+h. Requestor
+  
+   Initiates DTA process by completing the DTA request form [Appendix A](#appendix-a), signing the form as the requestor and routing it for approval.
 
-Initiates DTA process by completing the DTA request form [Appendix A](#appendix-a), signing the form as the requestor and routing it for approval.
+i. Witness
 
-i.  Witness
+   Signs the DTA request form [Appendix A](#appendix-a) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
 
-> Signs the DTA request form [Appendix A](#appendix-a) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
+# 5. PROCEDURES
+  
+   The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
 
-# 5.  PROCEDURES
-> The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
-
-a.  File Types  
->There are no file type restrictions under this SOP.  
+a. File Types
+  
+   There are no file type restrictions under this SOP.  
 
 b. Media Use (RMF Control MP-2)
    1. The use of removable media is restricted on the [Information System].  CDs and DVDs are the only media type authorized for use under this SOP for AFT.  
@@ -84,18 +86,18 @@ d. Dual Authorization (RMF Control AC-3(2))
    1. Only appointed and trained Data Transfer Agents are authorized to transfer data from the [Information System] to removable media.  
    2. The [Information System] SA is the only role authorized to enable permissions to allow the DTA write access to removable media.  
    3. The ISSO and SA shall receive notification from the CPSO when the DTA role is to be activated. The method of notification must provide an auditable trail.  
-      a. Upon notification the SA will ensure the DTA user is logged off all [Information System] systems.  
-      b. The SA will move the DTA from the restricted user security group to the DTA security group and have the user log into a [Information System] workstation.  
-      c. The SA will verify the ability to burn disc is granted.  
-      d. Upon completion of the AFT by the DTA, the SA shall ensure the DTA is logged off all [Information System] systems.  
-      e. The SA will move the DTA from the DTA security group to the restricted user group and have the user log into a [Information System] workstation.  
-      f. The SA will verify the ability to burn disc is removed.  
+     a. Upon notification the SA will ensure the DTA user is logged off all [Information System] systems.  
+     b. The SA will move the DTA from the restricted user security group to the DTA security group and have the user log into a [Information System] workstation.  
+     c. The SA will verify the ability to burn disc is granted.  
+     d. Upon completion of the AFT by the DTA, the SA shall ensure the DTA is logged off all [Information System] systems.  
+     e. The SA will move the DTA from the DTA security group to the restricted user group and have the user log into a [Information System] workstation.  
+     f. The SA will verify the ability to burn disc is removed.  
 
 e. Separation of Duties (RMF Control AC-5)  
    1. The separation of duties for the ISSO, SA, DTA, and TPI Media Custodian under this SOP are incorporated in the [Information System] GroupPolicy roles as outlined below:  
-      a. The SA, ISSO, TPI Media Custodian and the DTA shall not be the same individual.  
-      b. The SA shall not perform security audit functions.  
-      c. The ISSO shall not perform SA functions.  
+     a. The SA, ISSO, TPI Media Custodian and the DTA shall not be the same individual.  
+     b. The SA shall not perform security audit functions.  
+     c. The ISSO shall not perform SA functions.  
 
 >> f.  Least Privilege: Authorized Access to Security Functions (RMF Control AC-6(1))  
 >>> 1.  The concept of least privilege is employed under this SOP by limiting write access to removable media to appointed DTAs trained in the AFT process via technical controls.  
