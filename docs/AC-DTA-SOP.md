@@ -12,23 +12,23 @@ title: Data Transfer Agent SOP
   d.  US Army CIO-G6 Special Programs Office, Assured File Transfer Training for Low Risk Data Transfers, November 2013. 
 
 # 3.  SCOPE  
-> This SOP enforces approved authorizations in controlling the flow of information within the [Information System] system. The [Information System] utilizes mandatory and discretionary access controls for all file types based on the concept of least privilege and by the separation of duties, which are enforced by local and domain policies. When data are extracted from the information system, information flow enforcement is maintained utilizing the AFT process and role-based Data Transfer Agent (DTA) scheme as described within this SOP.
+This SOP enforces approved authorizations in controlling the flow of information within the [Information System] system. The [Information System] utilizes mandatory and discretionary access controls for all file types based on the concept of least privilege and by the separation of duties, which are enforced by local and domain policies. When data are extracted from the information system, information flow enforcement is maintained utilizing the AFT process and role-based Data Transfer Agent (DTA) scheme as described within this SOP.
 
 # 4.  RESPONSIBILITIES  
-> Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.  
+Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.  
 
-- Program Security Officer (PSO)
-  -- Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
+a. Program Security Officer (PSO)
+   - Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
 
-- Contractor Program Security Officer (CPSO)
-  -- Contractor providing security control measures for the accountability and marking digital media under this SOP.
-  -- Responsible for appointing a TPI Media Custodian in writing.
-  -- Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.
-  -- Authorizes each AFT by signing DTA request form [Appendix A](#appendix-a) as the approver.
+b. Contractor Program Security Officer (CPSO)
+   - Contractor providing security control measures for the accountability and marking digital media under this SOP.
+   - Responsible for appointing a TPI Media Custodian in writing.
+   - Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.
+   - Authorizes each AFT by signing DTA request form [Appendix A](#appendix-a) as the approver.
 
->> c.  Information System Security Manager (ISSM)  
->>> 1.  Government official responsible for appointing the ISSO and updating Reference (c).  
->>> 2.  Proponent of this SOP and conducts periodic compliance inspections.
+c.  Information System Security Manager (ISSM)  
+    - Government official responsible for appointing the ISSO and updating Reference (c).  
+    - Proponent of this SOP and conducts periodic compliance inspections.
 
 >> d.  Information System Security Officer (ISSO)  
 >>> 1.  Contractor providing direct support to the program.
