@@ -18,6 +18,7 @@ This SOP enforces approved authorizations in controlling the flow of information
 Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.
 
 a. Program Security Officer (PSO)
+
    Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
 
 b. Contractor Program Security Officer (CPSO)
@@ -45,31 +46,34 @@ f. Data Transfer Agent (DTA)
    2. An [Information System] user authorized and trained in a privileged role to conduct assured file transfers.  
    3. Conducts low risk Assured File Transfers and ensures data is appropriately handled per section (5.j) and signs the DTA request form [Appendix A](#appendix-a) as the DTA.
 
->> g.  Two Person Integrity (TPI) Media Custodian  
->>> 1.  Contractor providing direct support to the program.  
->>> 2.  Appointed in writing by the CPSO.  
->>> 3.  Maintains the TPI Log to reflect accountability of removable media throughout the [Information System] life cycle; from receipt of the media to destruction or the media. 
+g. Two Person Integrity (TPI) Media Custodian  
+   1. Contractor providing direct support to the program.  
+   2. Appointed in writing by the CPSO.  
+   3. Maintains the TPI Log to reflect accountability of removable media throughout the [Information System] life cycle; from receipt of the media to destruction or the media. 
 
->> h.  Requestor
->>> Initiates DTA process by completing the DTA request form [Appendix A](#appendix-a), signing the form as the requestor and routing it for approval.
+h.  Requestor
 
->> i.  Witness
->>> Signs the DTA request form [Appendix A](#appendix-a) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
+Initiates DTA process by completing the DTA request form [Appendix A](#appendix-a), signing the form as the requestor and routing it for approval.
+
+i.  Witness
+
+Signs the DTA request form [Appendix A](#appendix-a) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
 
 # 5.  PROCEDURES
-> The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
+The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
 
->> a.  File Types  
->>> There are no file type restrictions under this SOP.  
+a.  File Types  
 
->> b.  Media Use (RMF Control MP-2)
->>> 1.  The use of removable media is restricted on the [Information System].  CDs and DVDs are the only media type authorized for use under this SOP for AFT.  
->>> 2.  The following type of digital media are prohibited and not authorized for AFTs include, but not limited to, hard disks, floppy disks, zip drives, thumb drives, pen drives, flash drives, and similar universal serial bus (USB) storage devices.  
->>> 3.  Access to removable media writing capabilities is not authorized by users of the [Information System] to include privileged and general users with the exception of trained Data Transfer Agents approved for temporary elevated privileges under this SOP.  
->>> 4.  All portable media transferred under this SOP shall be protected with encryption using the open source software 7-Zip and transported and moved in accordance with (5.i.2).  
->>> 5.  All digital media and the use of such media on the [Information System] are accountable.  All digital media shall be authorized by the CPSO prior to being introduced into the [Information System] as described in (5.i.3).  
->>> 6.  User roles and access privileges are outlined in the [Information System] SSP Reference (c) Section (8.4).  
->>> 7.  Personally-owned media as well as media listed in (5.b.2) are prohibited for use on the [Information System] and are not approved for AFT.  
+There are no file type restrictions under this SOP.  
+
+b. Media Use (RMF Control MP-2)
+   1.  The use of removable media is restricted on the [Information System].  CDs and DVDs are the only media type authorized for use under this SOP for AFT.  
+   2. The following type of digital media are prohibited and not authorized for AFTs include, but not limited to, hard disks, floppy disks, zip drives, thumb drives, pen drives, flash drives, and similar universal serial bus (USB) storage devices.  
+   3. Access to removable media writing capabilities is not authorized by users of the [Information System] to include privileged and general users with the exception of trained Data Transfer Agents approved for temporary elevated privileges under this SOP.  
+   4. All portable media transferred under this SOP shall be protected with encryption using the open source software 7-Zip and transported and moved in accordance with (5.i.2).  
+   5. All digital media and the use of such media on the [Information System] are accountable.  All digital media shall be authorized by the CPSO prior to being introduced into the [Information System] as described in (5.i.3).  
+   6. User roles and access privileges are outlined in the [Information System] SSP Reference (c) Section (8.4).  
+   7. Personally-owned media as well as media listed in (5.b.2) are prohibited for use on the [Information System] and are not approved for AFT.  
 
 >> c.  Role Based Schemes (RMF Control AC-2(7))  
 >>> 1.  The transferring of data is a privileged action conducted by the Data Transfer Agent (DTA) role.  
