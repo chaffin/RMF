@@ -86,18 +86,18 @@ d. Dual Authorization (RMF Control AC-3(2))
    1. Only appointed and trained Data Transfer Agents are authorized to transfer data from the [Information System] to removable media.  
    2. The [Information System] SA is the only role authorized to enable permissions to allow the DTA write access to removable media.  
    3. The ISSO and SA shall receive notification from the CPSO when the DTA role is to be activated. The method of notification must provide an auditable trail.  
-     a. Upon notification the SA will ensure the DTA user is logged off all [Information System] systems.  
-     b. The SA will move the DTA from the restricted user security group to the DTA security group and have the user log into a [Information System] workstation.  
-     c. The SA will verify the ability to burn disc is granted.  
-     d. Upon completion of the AFT by the DTA, the SA shall ensure the DTA is logged off all [Information System] systems.  
-     e. The SA will move the DTA from the DTA security group to the restricted user group and have the user log into a [Information System] workstation.  
-     f. The SA will verify the ability to burn disc is removed.  
+      1. a. Upon notification the SA will ensure the DTA user is logged off all [Information System] systems.  
+      2. b. The SA will move the DTA from the restricted user security group to the DTA security group and have the user log into a [Information System] workstation.  
+      3. c. The SA will verify the ability to burn disc is granted.  
+      4. d. Upon completion of the AFT by the DTA, the SA shall ensure the DTA is logged off all [Information System] systems.  
+      5. e. The SA will move the DTA from the DTA security group to the restricted user group and have the user log into a [Information System] workstation.  
+      6. f. The SA will verify the ability to burn disc is removed.  
 
 e. Separation of Duties (RMF Control AC-5)  
    1. The separation of duties for the ISSO, SA, DTA, and TPI Media Custodian under this SOP are incorporated in the [Information System] GroupPolicy roles as outlined below:  
-     a. The SA, ISSO, TPI Media Custodian and the DTA shall not be the same individual.  
-     b. The SA shall not perform security audit functions.  
-     c. The ISSO shall not perform SA functions.  
+      1. a. The SA, ISSO, TPI Media Custodian and the DTA shall not be the same individual.  
+      2. b. The SA shall not perform security audit functions.  
+      3. c. The ISSO shall not perform SA functions.  
 
 >> f.  Least Privilege: Authorized Access to Security Functions (RMF Control AC-6(1))  
 >>> 1.  The concept of least privilege is employed under this SOP by limiting write access to removable media to appointed DTAs trained in the AFT process via technical controls.  
