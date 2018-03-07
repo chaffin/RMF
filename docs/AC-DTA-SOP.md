@@ -57,17 +57,16 @@ Initiates DTA process by completing the DTA request form [Appendix A](#appendix-
 
 i.  Witness
 
-Signs the DTA request form [Appendix A](#appendix-a) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
+> Signs the DTA request form [Appendix A](#appendix-a) as the witness.  The witness cannot be any personnel performing an active in the immediate file transfer being conducted role (i.e. the SA that initiated the DTA rights, the requestor for this transfer, the TPI custodian, the approver, and/or the DTA conducting the transfer).
 
 # 5.  PROCEDURES
-The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
+> The below procedures satisfy several controls from Reference (c) and are specific to the [Information System] to ensure information flow enforcement when conducting AFT. 
 
 a.  File Types  
-
-There are no file type restrictions under this SOP.  
+>There are no file type restrictions under this SOP.  
 
 b. Media Use (RMF Control MP-2)
-   1.  The use of removable media is restricted on the [Information System].  CDs and DVDs are the only media type authorized for use under this SOP for AFT.  
+   1. The use of removable media is restricted on the [Information System].  CDs and DVDs are the only media type authorized for use under this SOP for AFT.  
    2. The following type of digital media are prohibited and not authorized for AFTs include, but not limited to, hard disks, floppy disks, zip drives, thumb drives, pen drives, flash drives, and similar universal serial bus (USB) storage devices.  
    3. Access to removable media writing capabilities is not authorized by users of the [Information System] to include privileged and general users with the exception of trained Data Transfer Agents approved for temporary elevated privileges under this SOP.  
    4. All portable media transferred under this SOP shall be protected with encryption using the open source software 7-Zip and transported and moved in accordance with (5.i.2).  
@@ -75,28 +74,28 @@ b. Media Use (RMF Control MP-2)
    6. User roles and access privileges are outlined in the [Information System] SSP Reference (c) Section (8.4).  
    7. Personally-owned media as well as media listed in (5.b.2) are prohibited for use on the [Information System] and are not approved for AFT.  
 
->> c.  Role Based Schemes (RMF Control AC-2(7))  
->>> 1.  The transferring of data is a privileged action conducted by the Data Transfer Agent (DTA) role.  
->>> 2.  The [Information System] is configured with a DTA GroupPolicy that when enabled by the System Administrator (SA) role via security group assignment, authorizes write access to the DTA role.  
->>> 3.  The DTA role is monitored and audited by the Information System Security Officer (ISSO) role.  
->>> 4.  The TPI Media Custodian role maintains accountability for the removable media before and after each AFT.  
+c. Role Based Schemes (RMF Control AC-2(7))  
+   1. The transferring of data is a privileged action conducted by the Data Transfer Agent (DTA) role.  
+   2. The [Information System] is configured with a DTA GroupPolicy that when enabled by the System Administrator (SA) role via security group assignment, authorizes write access to the DTA role.  
+   3. The DTA role is monitored and audited by the Information System Security Officer (ISSO) role.  
+   4. The TPI Media Custodian role maintains accountability for the removable media before and after each AFT.  
 
->> d.  Dual Authorization (RMF Control AC-3(2))  
->>> 1.  Only appointed and trained Data Transfer Agents are authorized to transfer data from the [Information System] to removable media.  
->>> 2.  The [Information System] SA is the only role authorized to enable permissions to allow the DTA write access to removable media.  
->>> 3.  The ISSO and SA shall receive notification from the CPSO when the DTA role is to be activated. The method of notification must provide an auditable trail.  
-  >>>> a.  Upon notification the SA will ensure the DTA user is logged off all [Information System] systems.  
-  >>>> b.  The SA will move the DTA from the restricted user security group to the DTA security group and have the user log into a [Information System] workstation.  
-  >>>> c.  The SA will verify the ability to burn disc is granted.  
-  >>>> d.  Upon completion of the AFT by the DTA, the SA shall ensure the DTA is logged off all [Information System] systems.  
-  >>>> e.  The SA will move the DTA from the DTA security group to the restricted user group and have the user log into a [Information System] workstation.  
-  >>>> f.  The SA will verify the ability to burn disc is removed.  
+d. Dual Authorization (RMF Control AC-3(2))  
+   1. Only appointed and trained Data Transfer Agents are authorized to transfer data from the [Information System] to removable media.  
+   2. The [Information System] SA is the only role authorized to enable permissions to allow the DTA write access to removable media.  
+   3. The ISSO and SA shall receive notification from the CPSO when the DTA role is to be activated. The method of notification must provide an auditable trail.  
+      a. Upon notification the SA will ensure the DTA user is logged off all [Information System] systems.  
+      b. The SA will move the DTA from the restricted user security group to the DTA security group and have the user log into a [Information System] workstation.  
+      c. The SA will verify the ability to burn disc is granted.  
+      d. Upon completion of the AFT by the DTA, the SA shall ensure the DTA is logged off all [Information System] systems.  
+      e. The SA will move the DTA from the DTA security group to the restricted user group and have the user log into a [Information System] workstation.  
+      f. The SA will verify the ability to burn disc is removed.  
 
->> e.  Separation of Duties (RMF Control AC-5)  
->>> 1.  The separation of duties for the ISSO, SA, DTA, and TPI Media Custodian under this SOP are incorporated in the [Information System] GroupPolicy roles as outlined below:  
->>>> a.  The SA, ISSO, TPI Media Custodian and the DTA shall not be the same individual.  
->>>> b.  The SA shall not perform security audit functions.  
->>>> c.  The ISSO shall not perform SA functions.  
+e. Separation of Duties (RMF Control AC-5)  
+   1. The separation of duties for the ISSO, SA, DTA, and TPI Media Custodian under this SOP are incorporated in the [Information System] GroupPolicy roles as outlined below:  
+      a. The SA, ISSO, TPI Media Custodian and the DTA shall not be the same individual.  
+      b. The SA shall not perform security audit functions.  
+      c. The ISSO shall not perform SA functions.  
 
 >> f.  Least Privilege: Authorized Access to Security Functions (RMF Control AC-6(1))  
 >>> 1.  The concept of least privilege is employed under this SOP by limiting write access to removable media to appointed DTAs trained in the AFT process via technical controls.  
