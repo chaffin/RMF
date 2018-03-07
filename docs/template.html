@@ -18,6 +18,14 @@
         .content { font-size: 1em; }
         ul, ol { list-style-position: inside !important; }
         blockquote { border-left:none !important; }
+        ol {list-style-type:decimal !important;} 
+        ol ol {list-style-type:lower-alpha !important;}
+        ol ol ol {list-style-type:decimal !important;}
+        ol ol ol li:before {content:" ) ";margin-left:-.35em !important}
+        ol ol ol ol {list-style-type:lower-alpha !important;}
+        ol ol ol ol ol {list-style-type:upper-roman !important;}
+
+        ol > li {margin:.5em 0 !important}
 </style>
 </head>
 <body>
