@@ -16,14 +16,14 @@ title: Data Transfer Agent SOP
 
 # 4.  RESPONSIBILITIES  
 > Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.  
->> a.  Program Security Officer (PSO)
->> Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
+1. Program Security Officer (PSO)
+   - Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
 
->> b.  Contractor Program Security Officer (CPSO)
->>> 1.  Contractor providing security control measures for the accountability and marking digital media under this SOP.
->>> 2.  Responsible for appointing a TPI Media Custodian in writing.
->>> 3.  Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.
->>> 4.  Authorizes each AFT by signing DTA request form [Appendix A](#appendix-a) as the approver.
+2. Contractor Program Security Officer (CPSO)
+   - Contractor providing security control measures for the accountability and marking digital media under this SOP.
+   - Responsible for appointing a TPI Media Custodian in writing.
+   - Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.
+   - Authorizes each AFT by signing DTA request form [Appendix A](#appendix-a) as the approver.
 
 >> c.  Information System Security Manager (ISSM)  
 >>> 1.  Government official responsible for appointing the ISSO and updating Reference (c).  
