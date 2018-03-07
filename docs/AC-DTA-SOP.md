@@ -15,27 +15,26 @@ title: Data Transfer Agent SOP
    This SOP enforces approved authorizations in controlling the flow of information within the [Information System] system. The [Information System] utilizes mandatory and discretionary access controls for all file types based on the concept of least privilege and by the separation of duties, which are enforced by local and domain policies. When data are extracted from the information system, information flow enforcement is maintained utilizing the AFT process and role-based Data Transfer Agent (DTA) scheme as described within this SOP.
 
 # 4.  RESPONSIBILITIES
-   Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.
+Key roles and responsibilities are outlined in Reference (c). The below duties are specific under this SOP for the AFT process.
 
-a. Program Security Officer (PSO)
-  
-   Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
+## a. Program Security Officer (PSO)
+Government official responsible for appointing the Data Transfer Agent (DTA) for low risk data transfer.
 
-b. Contractor Program Security Officer (CPSO)
-   1. Contractor providing security control measures for the accountability and marking digital media under this SOP.
-   2. Responsible for appointing a TPI Media Custodian in writing.
-   3. Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.
-   4. Authorizes each AFT by signing DTA request form [Appendix A](#appendix-a) as the approver.
+## b. Contractor Program Security Officer (CPSO)
+1. Contractor providing security control measures for the accountability and marking digital media under this SOP.
+2. Responsible for appointing a TPI Media Custodian in writing.
+3. Ensures Data Transfer Agents (DTA) receive training in low risk Assured File Transfers.
+4. Authorizes each AFT by signing DTA request form [Appendix A](#appendix-a) as the approver.
 
-c. Information System Security Manager (ISSM)
-   1. Government official responsible for appointing the ISSO and updating Reference (c).  
-   2. Proponent of this SOP and conducts periodic compliance inspections.
+## c. Information System Security Manager (ISSM)
+1. Government official responsible for appointing the ISSO and updating Reference (c).  
+2. Proponent of this SOP and conducts periodic compliance inspections.
 
-d. Information System Security Officer (ISSO)  
-   1. Contractor providing direct support to the program.
-   2. Appointed by the ISSM to conduct privilege audit administration functions.
-   3. Conducts weekly audits to include all AFT actions, comparing technical audit trails with the media custodian’s media log.
-   4. Conducts weekly audits of the DTA roles, ensuring they are only active when required.
+## d. Information System Security Officer (ISSO)  
+1. Contractor providing direct support to the program.
+2. Appointed by the ISSM to conduct privilege audit administration functions.
+3. Conducts weekly audits to include all AFT actions, comparing technical audit trails with the media custodian’s media log.
+4. Conducts weekly audits of the DTA roles, ensuring they are only active when required.
 
 e. System Administrator (SA)
    1. Contractor providing direct support to the program.
