@@ -17,7 +17,13 @@
         body { font-family: 'Merriweather', Georgia, serif; }
         .content { font-size: 1em; }
         blockquote { border-left:none !important; }
-        ol {list-style-type:decimal;} 
+        ol {display: block;
+        list-style-type: decimal;
+        -webkit-margin-before: 1em;
+        -webkit-margin-after: 1em;
+        -webkit-margin-start: 0px;
+        -webkit-margin-end: 0px;
+        -webkit-padding-start: 40px;
         ol ol {list-style-type:lower-alpha !important;}
         ol ol ol {list-style-type:decimal;}
         ol ol ol li:before {content:" ) ";margin-left:-.35em;}
