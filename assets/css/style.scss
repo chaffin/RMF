@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme}}";
+@import "{{ Cayman }}";
 ol {list-style-type:decimal;} 
 ol ol {list-style-type:lower-alpha;}
 ol ol ol {list-style-type:decimal;}
