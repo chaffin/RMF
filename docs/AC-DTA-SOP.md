@@ -178,5 +178,5 @@ There are no file type restrictions under this SOP.
 
 # Appendix A
 
-
-## REFERENCES
+---
+# REFERENCES
