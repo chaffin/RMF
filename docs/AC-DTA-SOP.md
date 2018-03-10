@@ -179,4 +179,6 @@ There are no file type restrictions under this SOP.
 # Appendix A
 
 ---
-### [REFERENCES](#2. References)
+[back](#2-references)
+
+### REFERENCES
