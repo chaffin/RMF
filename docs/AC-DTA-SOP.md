@@ -175,7 +175,7 @@ There are no file type restrictions under this SOP.
       1. The media fails to open, the DTA shall return the media to the TPI media custodian per (5.g.1.c) and attempt the process over.
       2. The media transferred successfully, the DTA shall immediately return the media to the TPI media custodian per (5.g.1.c) and ensure the DTA role is deactivated per (5.d.3.b).
 
-# REF-A
+#REF-A
 
 # Appendix A
 
