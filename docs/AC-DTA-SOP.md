@@ -4,7 +4,7 @@
    The purpose of this Standard Operating Procedure (SOP) is to provide processes and procedures under the security control (AC-4) Information Flow Enforcement when conducting low risk Assure File Transfer (AFT) in accordance with Reference (a) for the ([Information System]). 
 
 ## 2.  REFERENCES
-  a.  [ARMY Assured File Transfer Guide, July 2015](#REFERENCES)<br>
+  a.  [ARMY Assured File Transfer Guide, July 2015](#references)<br>
   b.  Joint Special Access Program (SAP) Implementation Guide (JSIG), April 2016<br>
   c.  JSIG-Rev.4 Based Army SAP/SA System Security Plan (SSP)<br>
   d.  US Army CIO-G6 Special Programs Office, Assured File Transfer Training for Low Risk Data Transfers, November 2013. 
@@ -179,4 +179,4 @@ There are no file type restrictions under this SOP.
 # Appendix A
 
 ---
-# REFERENCES
+### REFERENCES
