@@ -4,7 +4,7 @@
    The purpose of this Standard Operating Procedure (SOP) is to provide processes and procedures under the security control (AC-4) Information Flow Enforcement when conducting low risk Assure File Transfer (AFT) in accordance with Reference (a) for the ([Information System]). 
 
 ## 2.  REFERENCES
-  a.  ARMY Assured File Transfer Guide, July 2015<br>
+  a.  [ARMY Assured File Transfer Guide, July 2015](./AC-DTA-SOP.md#REF-A)<br>
   b.  Joint Special Access Program (SAP) Implementation Guide (JSIG), April 2016<br>
   c.  JSIG-Rev.4 Based Army SAP/SA System Security Plan (SSP)<br>
   d.  US Army CIO-G6 Special Programs Office, Assured File Transfer Training for Low Risk Data Transfers, November 2013. 
@@ -175,6 +175,7 @@ There are no file type restrictions under this SOP.
       1. The media fails to open, the DTA shall return the media to the TPI media custodian per (5.g.1.c) and attempt the process over.
       2. The media transferred successfully, the DTA shall immediately return the media to the TPI media custodian per (5.g.1.c) and ensure the DTA role is deactivated per (5.d.3.b).
 
+# REF-A
 
 # Appendix A
 
