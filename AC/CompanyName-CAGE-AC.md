@@ -1,5 +1,5 @@
 ## INTRODUCTION
-This Access Control Policy promulgated in section AC-1 Access Control Policy and Procedures establishes the CompanyName Huntsville Government Cybersecurity Access Control Policy for CAGE CAGE. The Information Systems Security Manager (ISSM), as Common Control Provider (CCP), implements these Common Controls for Access Controls in support of multiple Government Contracting Authorities (GCA). These common control narratives satisfy the Risk Management Framework (RMF) as implemented by the Defense Security Service (DSS) Assessment and Authorization Process Manual (DAAPM). 
+This Access Control Policy promulgated in section AC-1 Access Control Policy and Procedures establishes the CompanyName Huntsville Government Cybersecurity Access Control Policy for CAGE. The Information Systems Security Manager (ISSM), as Common Control Provider (CCP), implements these Common Controls for Access Controls in support of multiple Government Contracting Authorities (GCA). These common control narratives satisfy the Risk Management Framework (RMF) as implemented by the Defense Security Service (DSS) Assessment and Authorization Process Manual (DAAPM). 
 In addition, these common controls satisfy the Department of Defense (DoD) Joint Special Access Program (SAP) Implementation Guide (JSIG) and are applicable to all information systems under the purview of the CompanyName-CAGE ISSM. 
 
 ## PURPOSE
@@ -17,8 +17,9 @@ The ISSM developed and implemented these common controls and ensures assessments
 Personnel listed on contract as KMP are considered authorized responsible personnel. This access control policy and procedures are disseminated to all KMPs for the systems on their programs inheriting these controls.
 
 ### Integrated Cyber Team
-The below procedures integrate various roles and responsibilities within each control narrative utilizing common role names (i.e., ISO/PM, ISSO/CISSO, FSO/CPSO). Due to various GCA programs under RMF these roles are interchangeable and applied accordingly to each program.   
-MANAGEMENT COMMITMENT
+The below procedures integrate various roles and responsibilities within each control narrative utilizing common role names (i.e., ISO/PM, ISSO/CISSO, FSO/CPSO). Due to various GCA programs under RMF these roles are interchangeable and applied accordingly to each program.
+
+## MANAGEMENT COMMITMENT
 Under this policy Key Management Personnel (KMP) are identified as authorized responsible personnel whom this policy is disseminated. As KMPs they understand their role and commitment for programs they support and the Access Control policy and procedures those programs are authorize to operate.  
 
 ### COORDINATION AND COMPLIANCE
