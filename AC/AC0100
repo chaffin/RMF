@@ -1,0 +1,11 @@
+a. The establishment of this policy and procedures implements common security controls and control enhancements for the [[Access Control]] (AC) family based on the Information System (IS) categorization Moderate-Low-Low (MLL). These control procedures are documented within ''{{FacilityCommonName}}-{{FacilityCage}}-AC'' and disseminated to all ''Key Management Personnel'' and the ''Integrated Cyber Team'': ([[CCI-002107]], [[CCI-002108]])
+
+  1. The access control policy addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance ([[CCI-000001]], [[CCI-000002]]); and
+
+  2. The procedures to facilitate the implementation of the access control policy and associated access controls are detailed in the PROCEDURES section of artifact document ''{{FacilityCommonName}}-{{FacilityCage}}-AC''. ([[CCI-000004]], [[CCI-000005]]); and
+
+b. The Information System Security Manager (ISSM) reviews and updates the current:
+
+  1. Access Control Policy annually in accordance with continuous monitoring [[AC0100]];  ([[CCI-000003]], [[CCI-001545]]); and
+
+  2. Access Control Procedures annually in accordance with continuous monitoring [[AC0100]]; ([[CCI-000006]], [[CCI-001546]]).
