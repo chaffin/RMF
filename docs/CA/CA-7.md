@@ -79,4 +79,4 @@ Updated POA&M, reports; RAR; Information System Continuous Monitoring (ISCM) Che
 
 [INTERVIEW:OBSERVE]: Processes and Procedures (e.g.; Media Protection, Escorting, Couriers, Opening/Closing, etc.) are observed with selected individuals interviewed. 
 
-[CA0700]: ./CA-7.md#-continuous-monitoring
+[CA0700]: CA-7.md#-continuous-monitoring
