@@ -1,4 +1,4 @@
-[CA0700](CA-7.md#_Continuous_Monitoring) 
+[CA0700] 
 
 # CA-7 Continuous Monitoring
 
@@ -78,3 +78,5 @@ Updated POA&M, reports; RAR; Information System Continuous Monitoring (ISCM) Che
 [EXAMINE:REVIEW]: Documents and Documentation (e.g.; Policy, MOU/MOA, Inventories, Baselines, Scans and STIG results) are examined and reviewed for relevance and accuracy.
 
 [INTERVIEW:OBSERVE]: Processes and Procedures (e.g.; Media Protection, Escorting, Couriers, Opening/Closing, etc.) are observed with selected individuals interviewed. 
+
+[CA0700]: ./CA-7.md###-continuous-monitoring
