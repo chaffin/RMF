@@ -1,4 +1,4 @@
-[CA0700](### Continuous Monitoring)
+[CA0700](CA-7.md###-Continuous-Monitoring)
 
 # CA-7 Continuous Monitoring
 
