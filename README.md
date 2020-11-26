@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Continuous Monitoring](CA/CA-7.md)
+[Continuous Monitoring](./CA/CA-7.md)
 
 You can use the [editor on GitHub](https://github.com/chaffin/RMF/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
