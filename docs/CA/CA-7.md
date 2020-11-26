@@ -48,7 +48,7 @@ f. Response actions to address the results of the analyzed security-related info
 
 g. The security status of specific program and the information system are reported to the ISSP/SCA, KMPs and appropriate Cyber Integration Team members immediately for any anomalies or issues (e.g., security control deviations, threat environment changes, incidents impacting system risk level, security relevant changes, etc.). ([[CCI-000280]], [[CCI-000281]], [[CCI-001581]])
 
-### Continuous Monitoring
+# Continuous Monitoring
 
 <blockquote>
 EXAMINE:REVIEW the DAAPM for changes to inherited controls, metrics and frequencies to monitor. 
