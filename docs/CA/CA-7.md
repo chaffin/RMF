@@ -66,3 +66,5 @@ Updated POA&M, reports; RAR; Information System Continuous Monitoring (ISCM) Che
 [^2]: Systems not recorded in **eMASS**, updates are made to system documentation which are maintained by the ISSM/ISSO. 
 
 [^3]: The checklist contains the continuous monitoring checks derived for the information system which may be in a XML (i.e., .ckl) or spreadsheet format. 
+
+[DCSA]: Defense Counterintelligence Security Agency
