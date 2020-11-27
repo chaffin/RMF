@@ -4,7 +4,7 @@
 
 The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders are responsible for the following monitoring tasks denoted by an ''M'' designator:
 
-**M-1:** The cyber integration team described in [CA-1](../../CA/CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
+**M-1:** The cyber integration team described in [CA-1](../CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
 
 **M-2:** An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
 
@@ -22,7 +22,7 @@ The continuous monitoring program includes: ([[CCI-000274]])
 
 a. The establishment of security control numbers as the metrics to be monitored; ([[CCI-002087]])
 
-b. The established **[DCSA]** monitoring frequencies as defined in DAAPM Appendix A for each security control; ([[CCI-002088]], [[CCI-002089]])
+b. The established [DCSA] monitoring frequencies as defined in DAAPM Appendix A for each security control; ([[CCI-002088]], [[CCI-002089]])
 
 c. Ongoing security control assessments in accordance with [[CA-2]], and continuous monitoring strategy (M-1), as well as using independent assessors in [[CA-7(1)]]; ([[CCI-000279]])
 
