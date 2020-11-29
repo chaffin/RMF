@@ -1,4 +1,6 @@
-# CA-1 Security Assessment and Authorization Policies & Procedures
+&laquo; [CA -- Security Assessment and Authorization](../index.md)
+---
+## CA-1 Security Assessment and Authorization Policies & Procedures
 The organization:
 a. Develops, documents, and disseminates to all personnel:
    1. A security assessment and authorization policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
