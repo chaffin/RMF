@@ -2,11 +2,50 @@
 ---
 
 @import "{{ site.theme }}";
-ol {list-style-type:lower-alpha;} 
-ol ol {list-style-type:decimal;}
-ol ol ol {list-style-type:lower-alpha;}
-ol ol ol li:before {content:" ) ";margin-left:-.35em}
-ol ol ol ol {list-style-type:lower-alpha;}
-ol ol ol ol ol {list-style-type:upper-roman;}
+/* input table */
+.rmf-table,.rmf-table textarea,.rmf-table input {background-color:#ffe}
+.rmf-gray-table textarea,.rmf-gray-table input {background-color:#ffe}
+.rmf-table-col {background-color:#f4f4f4}
+.rmf-table-row {background-color:#eef}
 
-ol > li {margin:.5em 0}
+.rmf-table,.rmf-table textarea,.rmf-table input,
+.rmf-blue-table,.rmf-blue-table textarea,.rmf-blue-table input,
+.rmf-gray-table,.rmf-gray-table textarea,.rmf-gray-table input,
+.rmf-gold-table,.rmf-gold-table textarea,.rmf-gold-table input,
+.rmf-green-table,.rmf-green-table textarea,.rmf-green-table input,
+.rmf-pink-table,.rmf-pink-table textarea,.rmf-pink-table input,
+.rmf-red-table,.rmf-red-table textarea,.rmf-red-table input {border:0;border-collapse:collapse;width:100%}
+
+.rmf-blue-table,
+.rmf-gray-table,
+.rmf-gold-table,
+.rmf-green-table,
+.rmf-pink-table,
+.rmf-red-table,
+.rmf-yellow-table {background-color:#fff}
+
+.rmf-table, th, td,
+.rmf-blue-table, th, td,
+.rmf-gray-table, th, td,
+.rmf-gold-table, th, td,
+.rmf-green-table, th, td,
+.rmf-pink-table, th, td,
+.rmf-red-table, th, td,
+.rmf-yellow-table, th, td {border:1px solid #ddd}
+
+.rmf-table th, .rmf-table th a {background-color:#369;color:#fff}
+.rmf-blue-table th, .rmf-blue-table th a {background-color:#3d7e9a;color:#fff}
+.rmf-gray-table th, .rmf-gray-table th a {background-color:#333;color:#fff}
+.rmf-gold-table th {background-color:#39c;color:#ff0}
+.rmf-green-table th {background-color:#c9f8a9;color:#333}
+.rmf-pink-table th {background-color:#fad;color:#333}
+.rmf-red-table th, .rmf-red-table th a {background-color:#d00;color:#fff}
+.rmf-yellow-table th {background-color:#ffdb58;color:#333}
+
+.rmf-blue-table tr:nth-child(even) {background-color:#e4f0f5}
+.rmf-gray-table tr:nth-child(even) {background-color:#f0f0f0}
+.rmf-gold-table tr:nth-child(even) {background-color:#eef}
+.rmf-green-table tr:nth-child(even) {background-color:#efe}
+.rmf-pink-table tr:nth-child(even) {background-color:#ffe6f5}
+.rmf-red-table tr:nth-child(even) {background-color:#fee}
+.rmf-yellow-table tr:nth-child(even) {background-color:#ffe}
