@@ -49,3 +49,17 @@
 .rmf-pink-table tr:nth-child(even) {background-color:#ffe6f5}
 .rmf-red-table tr:nth-child(even) {background-color:#fee}
 .rmf-yellow-table tr:nth-child(even) {background-color:#ffe}
+
+.rmf-two-cols { 
+column-count:2; 
+-moz-column-count:2; 
+-webkit-column-count:2; 
+}
+.rmf-two-cols {
+column-count-gap:1em; 
+-moz-column-gap:1em; 
+-webkit-column-gap:.5em
+column-gap: balance;
+column-gap: 0.33in;
+hyphens: none;
+}
