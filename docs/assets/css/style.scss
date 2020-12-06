@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 blockquote {border-left:none;font-style:inherit}
-blockquote > p::after {margin-bottom:-1em}
+blockquote > p {margin-bottom:-1em}
 blockquote > blockquote > p {font-style:italic}
 notes::before { 
   content: "\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500";
