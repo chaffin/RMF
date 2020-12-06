@@ -6,12 +6,15 @@
 `[The Facility]` implements an Information System Continuous Monitoring (ISCM) program developed at the Tier 3, information system level, by incorporating System-Level Continuous Monitoring (SLCM) step tasks outlined in the DAAPM.[^1]
 
 The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders are responsible for the following monitoring tasks denoted by an **M** designator:
+<dl>
+  <dt>M-1</dt>
+  <dd>The cyber integration team described in [CA-1](./CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;</dd>
+</dl>
+M-2
+:An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
 
-`M-1:` The cyber integration team described in [CA-1](./CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
-
-`M-2:` An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
-
-`M-3:` Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
+M-3
+:Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
 
 `M-4:` Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
 
