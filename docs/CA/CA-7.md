@@ -6,23 +6,27 @@
 `[The Facility]` implements an Information System Continuous Monitoring (ISCM) program developed at the Tier 3, information system level, by incorporating System-Level Continuous Monitoring (SLCM) step tasks outlined in the DAAPM.[^1]
 
 The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders are responsible for the following monitoring tasks denoted by an **M** designator:
-<dl>
-  <dt>M-1</dt>
-  <dd>The cyber integration team described in [CA-1](./CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;</dd>
-</dl>
-M-2
-:An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
 
-M-3
-:Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
+> M-1
+>> The cyber integration team described in [CA-1](./CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
 
-`M-4:` Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
+> M-2
+>> An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
 
-`M-5:` ISSM reports results to the ISSP/SCA. 
+> M-3
+>> Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
 
-`M-6:` Proper decommission (*disposal*) plans are implemented and. 
+> M-4
+>> Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
 
-`M-7:` Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
+> M-5
+>> ISSM reports results to the ISSP/SCA. 
+
+> M-6
+>> Proper decommission (*disposal*) plans are implemented and. 
+
+> M-7
+>> Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
 
 The continuous monitoring program includes: `(CCI-000274)`
 
@@ -53,7 +57,7 @@ f. Response actions to address the results of the analyzed security-related info
 g. The security status of specific program and the information system are reported to the ISSP/SCA, KMPs and appropriate Cyber Integration Team members immediately for any anomalies or issues (e.g., security control deviations, threat environment changes, incidents impacting system risk level, security relevant changes, etc.). `(CCI-000280`, `CCI-000281`, `CCI-001581)`
 
 <notes />
-[^1]: DAAPM paragraph ''7.7.1 Monitor Step Tasks'' are inherited as a common control supporting the continuous monitoring program. 
+[^1]: DAAPM paragraph *7.7.1 Monitor Step Tasks* are inherited as a common control supporting the continuous monitoring program. 
 
 [^2]: Systems not recorded in **eMASS**, updates are made to system documentation which are maintained by the ISSM/ISSO. 
 
