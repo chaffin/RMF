@@ -15,7 +15,6 @@ b. The Common Control Provider, Corporate ISSM reviews and updates the current:
 
 2. Security assessment and authorization procedures **annually** in accordance with continuous monitoring `CA0100`; (CCI-000244, CCI-001578).
 
-<notes>
-[^1]: DoD Form 441, Department of Defense Security Agreement.<br />
+<notes></notes>
+[^1]: DoD Form 441, Department of Defense Security Agreement.
 [^2]: Common Control Provider (CCP) minus -1 policy controls.
-</notes>
