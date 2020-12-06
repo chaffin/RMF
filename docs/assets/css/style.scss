@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+notes::before { 
+  content: "\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500\02500";
+}
+notes {font-family:Calibri,Ebrima,Umpush}
 /* input table */
 .rmf-table,.rmf-table textarea,.rmf-table input {background-color:#ffe}
 .rmf-gray-table textarea,.rmf-gray-table input {background-color:#ffe}
