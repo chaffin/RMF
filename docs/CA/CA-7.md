@@ -25,7 +25,7 @@ The continuous monitoring program includes: `(CCI-000274)`
 
 a. The establishment of security control numbers as the metrics to be monitored; `(CCI-002087)`
 
-b. The established <abbr title="Defense Counterintelligence Security Agency">[DCSA]</abbr> monitoring frequencies as defined in DAAPM Appendix A for each security control; `(CCI-002088, CCI-002089**)`
+b. The established <abbr title="Defense Counterintelligence Security Agency">DCSA</abbr> monitoring frequencies as defined in DAAPM Appendix A for each security control; `(CCI-002088, CCI-002089**)`
 
 c. Ongoing security control assessments in accordance with [CA-2](CA-2), and continuous monitoring strategy `(M-1)`, as well as using independent assessors in [CA-7(1)](CA-7(1)); (`CCI-000279`)
 
