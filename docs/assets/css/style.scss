@@ -55,3 +55,12 @@ column-count:2;
 column-gap: 0.33in;
 hyphens: none;
 }
+ol {list-style-type:lower-alpha;} 
+ol ol {list-style-type:decimal;}
+ol ol ol {list-style-type:lower-alpha;}
+ol ol ol li:before {content:" ) ";margin-left:-.35em}
+ol ol ol ol {list-style-type:lower-alpha;}
+ol ol ol ol ol {list-style-type:upper-roman;}
+ol > li {margin:.5em 0}
+
+sup {color:tomato}
