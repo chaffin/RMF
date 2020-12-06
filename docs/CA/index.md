@@ -2,7 +2,7 @@
 ---
 ## CA -- Security Assessment and Authorization
 <div class="rmf-two-cols">
-In agreement to provide and maintain a system of security controls in accordance with the requirements of the National Industrial Security Program Operating Manual (NISPOM), `[The Facility]` implements procedures to facilitate *security assessment and authorization policy* that periodically assesses the security controls to determine if the controls are effective in their application; develop and implement plans of action & milestones to correct deficiencies and reduce or eliminate vulnerabilities; authorize the operation of national security systems and any associated system connections; and monitor information system security controls on an ongoing basis to ensure the continued effectiveness of the controls.[^1]
+<p>In agreement to provide and maintain a system of security controls in accordance with the requirements of the National Industrial Security Program Operating Manual (NISPOM), `[The Facility]` implements procedures to facilitate *security assessment and authorization policy* that periodically assesses the security controls to determine if the controls are effective in their application; develop and implement plans of action & milestones to correct deficiencies and reduce or eliminate vulnerabilities; authorize the operation of national security systems and any associated system connections; and monitor information system security controls on an ongoing basis to ensure the continued effectiveness of the controls.[^1]</p>
 </div>
 
 ## Policy
