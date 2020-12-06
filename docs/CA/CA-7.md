@@ -7,26 +7,13 @@
 
 The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders are responsible for the following monitoring tasks denoted by an **M** designator:
 
-> M-1
->> The cyber integration team described in [CA-1](./CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
-
-> M-2
->> An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
-
-> M-3
->> Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
-
-> M-4
->> Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
-
-> M-5
->> ISSM reports results to the ISSP/SCA. 
-
-> M-6
->> Proper decommission (*disposal*) plans are implemented and. 
-
-> M-7
->> Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
+- **M-1** -- The cyber integration team described in [CA-1](./CA-1)(a.1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
+- **M-2** -- An ongoing assessment of control effectiveness is conducted utilizing the assessment methods outlined in the below section (d).  
+- **M-3** -- Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
+- **M-4** -- Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
+- **M-5** -- ISSM reports results to the ISSP/SCA. 
+- **M-6** -- Proper decommission (*disposal*) plans are implemented and. 
+- **M-7** -- Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
 
 The continuous monitoring program includes: `(CCI-000274)`
 
