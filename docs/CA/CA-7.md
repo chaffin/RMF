@@ -21,7 +21,7 @@ The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders a
 
 - **M-7** -- Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
 
-The continuous monitoring program includes: [CCI-000274](CA#CCI-000274)
+The continuous monitoring program includes: [CCI-000274](CA.md#CCI-000274)
 
 a. The establishment of security control numbers as the metrics to be monitored; [CCI-002087](CA#CCI-002087)
 
