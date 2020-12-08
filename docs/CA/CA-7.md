@@ -5,7 +5,7 @@
 
 `[The Facility]` implements an Information System Continuous Monitoring (ISCM) program developed at the Tier 3, information system level, by incorporating System-Level Continuous Monitoring (SLCM) step tasks outlined in the DAAPM.[^1]
 
-The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders are responsible for the following monitoring tasks denoted by an **M** designator:
+The ISSM/ISSO with assistance from the ISO, FSO, and system stakeholders are responsible for the following monitoring tasks denoted by an **M** designator:
 
 - **M-1** -- The cyber integration team described in [CA-1 (a.1)](CA-1), monitors all technical, management, and operational security controls employed within and inherited by the information system;
 
@@ -13,15 +13,15 @@ The ISSM/ISSO with assistance from the ISO, FSO, and other system stakeholders a
 
 - **M-3** -- Assessed output data are analyzed and appropriately responded to which includes one or more of the following tasks; 
 
-- **M-4** -- Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
+>- **M-4** -- Ensure the system security documentation (RAR, SSP, POA&M) are updated. 
 
-- **M-5** -- ISSM reports results to the ISSP/SCA. 
+>- **M-5** -- ISSM reports results to the ISSP/SCA. 
 
-- **M-6** -- Proper decommission (*disposal*) plans are implemented and. 
+>- **M-6** -- Proper decommission (*disposal*) plans are implemented and. 
 
-- **M-7** -- Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
+>- **M-7** -- Make live updates within eMASS or Security Control Traceability Matrix (SCTM).[^2]  
 
-The continuous monitoring program includes: [CCI-000274](CA.md#CCI-000274)
+The continuous monitoring program includes: [CCI-000274](CCI-CA#CCI-000274)
 
 a. The establishment of security control numbers as the metrics to be monitored; [CCI-002087](CCI-CA#CCI-002087)
 
