@@ -1,4 +1,4 @@
-<div style="font-size:120%;color:tomato;text-align:center">&loz;&nbsp;&loz;&nbsp;&loz;&nbsp;</div>
+<div style="font-size:150%;color:tomato;text-align:center">&loz;&nbsp;&loz;&nbsp;&loz;&nbsp;</div>
 <div id="AC-1" style="background:#ffffcc;padding:0.01em 16px;border:1px solid #ccc;border-bottom:none"><p><a href="AC/AC-1">AC-1</a><strong> &mdash; DAAPM Appendix A Control Verbiage</strong></p><p style="white-space:pre-wrap;">The organization:
 a. Develops, documents, and disseminates to all authorized responsible personnel as required:
  1. An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
