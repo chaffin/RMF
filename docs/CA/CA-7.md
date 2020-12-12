@@ -1,7 +1,7 @@
 &laquo; [CA Security Assessment and Authorization](index.md)
 ---
 
-## CA-7 Continuous Monitoring[&loz;](../guidance#CA-7)
+## CA-7 Continuous Monitoring[&loz;](../../guidance#CA-7)
 
 `[The Facility]` implements an Information System Continuous Monitoring (ISCM) program developed at the Tier 3, information system level, by incorporating System-Level Continuous Monitoring (SLCM) step tasks outlined in the DAAPM.[^1]
 
