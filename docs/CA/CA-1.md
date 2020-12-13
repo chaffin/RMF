@@ -1,6 +1,6 @@
 &laquo; [CA -- Security Assessment and Authorization](../index.md)
 ---
-## CA-1 Security Assessment and Authorization Policies & Procedures<sup>[&loz;](../guidance#CA-1)</sup>
+## [CA-1](../guidance#CA-1) Security Assessment and Authorization Policies & Procedures<sup>[&loz;](CA0100)</sup>
 a. The ISSM is the individual responsible for the development, implementation, assessment, and monitoring of common controls inherited by National Security Systems (NSS). The ISSM maintains these security controls under a larger umbrella by establishing minus -1 policy controls for the Common Control Provider (CCP) plan; documenting *Common* and *Hybrid* procedures disseminated to **all personnel** managing system development, operations, and maintenance of NSS: [CCI-002061](CCI-CA#CCI-002061), [CCI-002062](CCI-CA#CCI-002062):
 
 1. The minus -1 policy control policy[^1] addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance [CCI-000239](CCI-CA#CCI-000239), [CCI-000240](CCI-CA#CCI-000240); and
