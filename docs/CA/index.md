@@ -27,6 +27,5 @@ In agreement to provide and maintain a system of security controls in accordance
 ><span style="color:tomato">&loz;</span> [CA0701](CA0701.md)<br />
 ><span style="color:tomato">&loz;</span> [CA0900](CA0900.md)<br />
 
-<notes>
+<notes />
 [^1]: DoD Form 441, Department of Defense Security Agreement.
-</notes>
