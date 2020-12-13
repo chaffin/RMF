@@ -1,6 +1,6 @@
 &laquo; [RMF Controls](../index.md)
 ---
-# CA -- Security Assessment and Authorization Policies and Procedures
+# Policy
 In agreement to provide and maintain a system of security controls in accordance with the requirements of the National Industrial Security Program Operating Manual (NISPOM)[^1], `[The Facility]` implements procedures to facilitate *security assessment and authorization policy* that periodically assesses the security controls to determine if the controls are effective in their application; develop and implement plans of action & milestones to correct deficiencies and reduce or eliminate vulnerabilities; authorize the operation of national security systems and any associated system connections; and monitor information system security controls on an ongoing basis to ensure the continued effectiveness of the controls.[^2]
 
 ## Procedures
@@ -29,3 +29,4 @@ In agreement to provide and maintain a system of security controls in accordance
 
 <notes />
 [^1]: DoD Form 441, Department of Defense Security Agreement.
+[^2]: The Common Control Provider (CCP) for facilities, even enterprise facilities, under the NISP are able to addresses *purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance* in a single policy for minus (-1) controls.
