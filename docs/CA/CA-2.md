@@ -1,7 +1,7 @@
 &laquo; [CA Security Assessment and Authorization](index.md)
 ---
 
-## CA-2 Security Assessments
+## [CA-2](CA-2) Security Assessments[<sup style="color:tomato">&loz;</sup>](CA0200)
 The `[Facility]` developed:
 
 a. Security assessments, to include self-assessments, which are documented within each security control family for the information system. The scope of the assessment covers the Control Correlation Identifiers (CCIs) which includes: [CCI-000245](CCI-CA#CCI-000245)
