@@ -56,9 +56,8 @@ notes {font-family:Calibri,Ebrima,Umpush}
 .rmf-red-table tr:nth-child(even) {background-color:#fee}
 .rmf-yellow-table tr:nth-child(even) {background-color:#ffe}
 
-.rmf-two-cols { 
-column-count:2; 
-column-gap: 0.33in;
-hyphens: none;
-}
+.rmf-two-cols {column-count:2;column-gap: 0.33in;hyphens: none;}
 .guidance-titles {padding-top:6px;margin-bottom:3px }
+.guidance-daapm {color#444;background:#ffe;padding:0.01em 16px;border:1px solid #ccc;border-bottom:none}
+.guidance-dcsa {color#444;background:#fee;padding:0.01em 16px;border-left:1px solid #ccc;border-right:1px solid #ccc;}
+.guidance-nist {color#444;background:#ffe;padding:0.01em 16px;border:1px solid #ccc;border-top:none}
